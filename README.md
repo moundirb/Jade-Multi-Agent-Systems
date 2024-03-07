@@ -27,7 +27,7 @@ To get started with the Jade examples, follow these steps:
     - Set the `Main class` to `jade.Boot`.
     - Add the following program arguments:
         ```plaintext
-        -container -agents "example1:org.tps.tp4_InterAgentCommunication.Agent_Calcul"
+        -container -agents example1:org.tps.tp4_InterAgentCommunication.Agent_Calcul
         ```
     - Add the Jade libraries to the classpath.
     - Save the configuration.
@@ -53,6 +53,6 @@ To get started with the Jade examples, follow these steps:
 
 ## Example Run Configuration
 
-![Run Configuration](./img/run configuration.png)
+![Run Configuration](./img/run-configuration.png)
 
 For more information on Jade, refer to the [official documentation](http://jade.tilab.com/).
