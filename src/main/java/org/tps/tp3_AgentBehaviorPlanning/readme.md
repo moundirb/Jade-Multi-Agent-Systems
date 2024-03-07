@@ -19,5 +19,5 @@ This approach provides a cleaner and more asynchronous way to handle the termina
 
 ## Output
 
-![output](//TP_ASR/img/output.png)
+![output](.img/output.png)
 
