@@ -19,5 +19,5 @@ This approach provides a cleaner and more asynchronous way to handle the termina
 
 ## Output
 
-![Output](../img/output.png)
+![Output]([../img/output.png](https://github.com/moundirb/Jade-Multi-Agent-Systems/blob/8a9b2b1fc4e00a30aa274fde2c174b071b9a9cc8/img/output.png)https://github.com/moundirb/Jade-Multi-Agent-Systems/blob/8a9b2b1fc4e00a30aa274fde2c174b071b9a9cc8/img/output.png)
 
