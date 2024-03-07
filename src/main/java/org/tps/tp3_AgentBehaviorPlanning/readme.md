@@ -19,5 +19,5 @@ This approach provides a cleaner and more asynchronous way to handle the termina
 
 ## Output
 
-![Output](./src/main/java/org/tps/tp3_AgentBehaviorPlanning/output.png)
+![Output](output.png)
 
