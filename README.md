@@ -8,8 +8,8 @@ To get started with the Jade examples, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/moundirb/Jade-Multi-Agent-Systems
+    cd Jade-Multi-Agent-Systems
     ```
 
 2. **Install Jade:**
@@ -53,6 +53,6 @@ To get started with the Jade examples, follow these steps:
 
 ## Example Run Configuration
 
-![Run Configuration](./img/run-configuration.png)
+![Run Configuration](./img/run_configuration.png)
 
 For more information on Jade, refer to the [official documentation](http://jade.tilab.com/).
