@@ -16,10 +16,8 @@ public class agent3 extends Agent {
                 // Action to be performed at each tick
                 System.out.println("tick: "+getTickCount()+" Je suis l'Agent 001");
 
-                ;
 
-
-                }
+            }
 
         });
 
